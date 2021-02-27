@@ -1,3 +1,3 @@
 # data_structure
-This Repository Consists if the code implmentation of various data structures
+This Repository Consists of the code implmentation of various data structures
 
